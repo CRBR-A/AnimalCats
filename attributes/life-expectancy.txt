@@ -1,0 +1,76 @@
+| name                 | Min | Max |
+| -------------------- | --- | --- |
+| Abyssinian           | 9   | 15  |
+| Aegean               | 9   | 10  |
+| American Bobtail     | 11  | 15  |
+| American Shorthair   | 15  | 20  |
+| American Wirehair    | 14  | 18  |
+| Aphrodite Giant      | 12  | 15  |
+| Arabian Mau          | 12  | 14  |
+| Asian                | 15  | 15  |
+| Australian Mist      | 15  | 18  |
+| Bambino              | 9   | 15  |
+| Bengal Cats          | 10  | 16  |
+| Birman               | 12  | 16  |
+| Bombay               | 12  | 20  |
+| Brazilian Shorthair  | 14  | 20  |
+| British Longhair     | 15  | 17  |
+| British Shorthair    | 12  | 17  |
+| Burmese              | 10  | 16  |
+| Burmilla             | 10  | 15  |
+| California Spangled  | 9   | 16  |
+| Chantilly-Tiffany    | 7   | 16  |
+| Chausie              | 12  | 14  |
+| Colorpoint Shorthair | 12  | 17  |
+| Cornish Rex          | 11  | 15  |
+| Cyprus               | 12  | 15  |
+| Devon Rex            | 9   | 15  |
+| Donskoy              | 12  | 15  |
+| European Shorthair   | 15  | 20  |
+| Foldex               | 12  | 15  |
+| German Rex           | 9   | 14  |
+| Highlander           | 10  | 15  |
+| Japanese Bobtail     | 9   | 15  |
+| Javanese             | 10  | 15  |
+| Khao Manee           | 10  | 12  |
+| Kurilian Bobtail     | 15  | 20  |
+| Lykoi                | 12  | 15  |
+| Maine Coon           | 9   | 15  |
+| Manx                 | 8   | 14  |
+| Mekong Bobtail       | 15  | 18  |
+| Nebelung             | 11  | 18  |
+| Oriental Bicolor     | 8   | 12  |
+| Persian              | 10  | 15  |
+| Peterbald            | 12  | 15  |
+| Pixie-Bob            | 13  | 15  |
+| Ragdoll Cats         | 12  | 17  |
+| Russian Blue         | 10  | 15  |
+| Savannah             | 17  | 20  |
+| Scottish Fold        | 11  | 14  |
+| Serengeti            | 10  | 15  |
+| Siamese Cat          | 8   | 15  |
+| Siberian             | 11  | 18  |
+| Singapura            | 11  | 15  |
+| Snowshoe             | 14  | 19  |
+| Sokoke               | 9   | 15  |
+| Somali               | 11  | 16  |
+| Sphynx               | 8   | 14  |
+| American Shorthair   | 15  | 20  |
+| Tonkinese            | 10  | 16  |
+| Toyger               | 10  | 15  |
+| Turkish Angora       | 12  | 18  |
+| Turkish Van          | 12  | 17  |
+| Ukrainian Levkoy     | 9   | 15  |
+| York Chocolate       | 13  | 15  |
+
+---
+current:
+  subject: Cats
+  topic: Life expectancy
+  author: Chirag Chauhan
+  source: <https://www.kaggle.com/datasets/warcoder/cat-breeds-details>
+  file: <./life-expectancy.txt>
+    license: CC0 Public Domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com)
+...

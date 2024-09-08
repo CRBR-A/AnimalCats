@@ -1,0 +1,76 @@
+| Name                 | Origin                       |
+| -------------------- | ---------------------------- |
+| Abyssinian           | Southeast Asia               |
+| Aegean               | Greece                       |
+| American Bobtail     | United States and Canada     |
+| American Shorthair   | United States                |
+| American Wirehair    | United States                |
+| Aphrodite Giant      | Cyprus                       |
+| Arabian Mau          | Saudi Arabia                 |
+| Asian                | Great Britain                |
+| Australian Mist      | Australia                    |
+| Bambino              | United States                |
+| Bengal Cats          | USA                          |
+| Birman               | Unknown                      |
+| Bombay               | Kentucky, USA                |
+| Brazilian Shorthair  | Brazil                       |
+| British Longhair     | Great Britain                |
+| British Shorthair    | Great Britain                |
+| Burmese              | Burma and Thailand           |
+| Burmilla             | England                      |
+| California Spangled  | USA                          |
+| Chantilly-Tiffany    | United States                |
+| Chausie              | Egypt                        |
+| Colorpoint Shorthair | England                      |
+| Cornish Rex          | United Kingdom               |
+| Cyprus               | Cyprus                       |
+| Devon Rex            | Devon, England               |
+| Donskoy              | Russia                       |
+| European Shorthair   | Italy                        |
+| Foldex               | Quebec, Canada               |
+| German Rex           | Germany                      |
+| Highlander           | United States                |
+| Japanese Bobtail     | China and Japan              |
+| Javanese             | United States and Canada     |
+| Khao Manee           | Thailand                     |
+| Kurilian Bobtail     | Kuril Islands                |
+| Lykoi                | United States                |
+| Maine Coon           | Maine, USA                   |
+| Manx                 | Isle of Man, UK              |
+| Mekong Bobtail       | Southeast Asia               |
+| Nebelung             | United States                |
+| Oriental Bicolor     | United States                |
+| Persian              | Persia (known as Iran today) |
+| Peterbald            | Russia                       |
+| Pixie-Bob            | Washington, USA              |
+| Ragdoll Cats         | Riverside, California, USA   |
+| Russian Blue         | Archangel Isles, Russia      |
+| Savannah             | USA                          |
+| Scottish Fold        | Tayside, Scotland            |
+| Serengeti            | United States                |
+| Siamese Cat          | Thailand                     |
+| Siberian             | Russia                       |
+| Singapura            | Singapore                    |
+| Snowshoe             | Philadelphia, USA            |
+| Sokoke               | Kenya                        |
+| Somali               | United States                |
+| Sphynx               | Canada                       |
+| American Shorthair   | United States                |
+| Tonkinese            | United States and Thailand   |
+| Toyger               | United States                |
+| Turkish Angora       | Ankara, Turkey               |
+| Turkish Van          | Lake Van, Turkey             |
+| Ukrainian Levkoy     | Russia                       |
+| York Chocolate       | United States                |
+
+---
+current:
+  subject: Cats
+  topic: Origin
+  author: Chirag Chauhan
+  source: <https://www.kaggle.com/datasets/warcoder/cat-breeds-details>
+  file: <./origin.txt>
+    license: CC0 Public Domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com)
+...

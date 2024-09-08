@@ -1,0 +1,76 @@
+| Name                 | Value |
+| -------------------- | ----- |
+| Abyssinian           | 3/5   |
+| Aegean               | 3/5   |
+| American Bobtail     | 4/5   |
+| American Shorthair   | 3/5   |
+| American Wirehair    | 3/5   |
+| Aphrodite Giant      | 4/5   |
+| Arabian Mau          | 2/5   |
+| Asian                | 1/5   |
+| Australian Mist      | 2/5   |
+| Bambino              | 1/5   |
+| Bengal Cats          | 2/5   |
+| Birman               | 3/5   |
+| Bombay               | 2/5   |
+| Brazilian Shorthair  | 1/5   |
+| British Longhair     | 4/5   |
+| British Shorthair    | 3/5   |
+| Burmese              | 2/5   |
+| Burmilla             | 3/5   |
+| California Spangled  | 2/5   |
+| Chantilly-Tiffany    | 3/5   |
+| Chausie              | 1/5   |
+| Colorpoint Shorthair | 2/5   |
+| Cornish Rex          | 2/5   |
+| Cyprus               | 2/5   |
+| Devon Rex            | 1/5   |
+| Donskoy              | 1/5   |
+| European Shorthair   | 2/5   |
+| Foldex               | 3/5   |
+| German Rex           | 2/5   |
+| Highlander           | 2/5   |
+| Japanese Bobtail     | 3/5   |
+| Javanese             | 3/5   |
+| Khao Manee           | 1/5   |
+| Kurilian Bobtail     | 2/5   |
+| Lykoi                | 4/5   |
+| Maine Coon           | 4/5   |
+| Manx                 | 3/5   |
+| Mekong Bobtail       | 2/5   |
+| Nebelung             | 4/5   |
+| Oriental Bicolor     | 1/5   |
+| Persian              | 5/5   |
+| Peterbald            | 1/5   |
+| Pixie-Bob            | 4/5   |
+| Ragdoll Cats         | 4/5   |
+| Russian Blue         | 4/5   |
+| Savannah             | 3/5   |
+| Scottish Fold        | 3/5   |
+| Serengeti            | 1/5   |
+| Siamese Cat          | 2/5   |
+| Siberian             | 4/5   |
+| Singapura            | 2/5   |
+| Snowshoe             | 3/5   |
+| Sokoke               | 1/5   |
+| Somali               | 4/5   |
+| Sphynx               | 1/5   |
+| American Shorthair   | 3/5   |
+| Tonkinese            | 2/5   |
+| Toyger               | 1/5   |
+| Turkish Angora       | 2/5   |
+| Turkish Van          | 2/5   |
+| Ukrainian Levkoy     | 1/5   |
+| York Chocolate       | 4/5   |
+
+---
+current:
+  subject: Cats
+  topic: Shedding
+  author: Chirag Chauhan
+  source: <https://www.kaggle.com/datasets/warcoder/cat-breeds-details>
+  file: <./shedding.txt>
+    license: CC0 Public Domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com)
+...

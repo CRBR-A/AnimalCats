@@ -1,0 +1,76 @@
+| name                 | Min | Max |
+| -------------------- | --- | --- |
+| Abyssinian           | 6   | 10  |
+| Aegean               | 7   | 10  |
+| American Bobtail     | 8   | 13  |
+| American Shorthair   | 7   | 12  |
+| American Wirehair    | 8   | 15  |
+| Aphrodite Giant      | 11  | 24  |
+| Arabian Mau          | 8   | 16  |
+| Asian                | 10  | 10  |
+| Australian Mist      | 8   | 15  |
+| Bambino              | 4   | 9   |
+| Bengal Cats          | 8   | 17  |
+| Birman               | 6   | 12  |
+| Bombay               | 8   | 15  |
+| Brazilian Shorthair  | 10  | 22  |
+| British Longhair     | 9   | 18  |
+| British Shorthair    | 7   | 17  |
+| Burmese              | 8   | 12  |
+| Burmilla             | 6.5 | 13  |
+| California Spangled  | 8   | 15  |
+| Chantilly-Tiffany    | 6   | 12  |
+| Chausie              | 15  | 30  |
+| Colorpoint Shorthair | 5   | 10  |
+| Cornish Rex          | 6   | 10  |
+| Cyprus               | 8   | 16  |
+| Devon Rex            | 5   | 10  |
+| Donskoy              | 6   | 15  |
+| European Shorthair   | 8   | 15  |
+| Foldex               | 5   | 14  |
+| German Rex           | 5   | 8   |
+| Highlander           | 10  | 20  |
+| Japanese Bobtail     | 6   | 10  |
+| Javanese             | 5   | 10  |
+| Khao Manee           | 8   | 10  |
+| Kurilian Bobtail     | 8   | 15  |
+| Lykoi                | 4   | 7   |
+| Maine Coon           | 9   | 18  |
+| Manx                 | 8   | 12  |
+| Mekong Bobtail       | 8   | 10  |
+| Nebelung             | 7   | 15  |
+| Oriental Bicolor     | 8   | 12  |
+| Persian              | 7   | 12  |
+| Peterbald            | 6   | 10  |
+| Pixie-Bob            | 8   | 17  |
+| Ragdoll Cats         | 10  | 20  |
+| Russian Blue         | 7   | 15  |
+| Savannah             | 8   | 20  |
+| Scottish Fold        | 6   | 13  |
+| Serengeti            | 8   | 15  |
+| Siamese Cat          | 6   | 14  |
+| Siberian             | 8   | 17  |
+| Singapura            | 4   | 7   |
+| Snowshoe             | 7   | 12  |
+| Sokoke               | 6   | 10  |
+| Somali               | 6   | 10  |
+| Sphynx               | 6   | 12  |
+| American Shorthair   | 7   | 12  |
+| Tonkinese            | 6   | 12  |
+| Toyger               | 7   | 15  |
+| Turkish Angora       | 5   | 9   |
+| Turkish Van          | 10  | 18  |
+| Ukrainian Levkoy     | 8   | 12  |
+| York Chocolate       | 10  | 18  |
+
+---
+current:
+  subject: Cats
+  topic: Weight
+  author: Chirag Chauhan
+  source: <https://www.kaggle.com/datasets/warcoder/cat-breeds-details>
+  file: <./weight.txt>
+    license: CC0 Public Domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com)
+...

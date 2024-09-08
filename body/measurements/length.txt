@@ -1,0 +1,76 @@
+| name                 | Min    | Max    | including tail |
+| -------------------- | ------ | ------ | -------------- |
+| Abyssinian           | 30     | 41     | yes            |
+| Aegean               | Medium | Medium |                |
+| American Bobtail     | Medium | Medium |                |
+| American Shorthair   | 30     | 38     | yes            |
+| American Wirehair    | Medium | large  |                |
+| Aphrodite Giant      | Large  | Large  |                |
+| Arabian Mau          | Medium | Medium |                |
+| Asian                | Medium | Medium |                |
+| Australian Mist      | Medium | Medium |                |
+| Bambino              | Short  | Short  |                |
+| Bengal Cats          | 43     | 56     | no             |
+| Birman               | 38     | 46     | yes            |
+| Bombay               | 33     | 51     | yes            |
+| Brazilian Shorthair  | Medium | large  |                |
+| British Longhair     | Medium | Large  |                |
+| British Shorthair    | 56     | 64     | no             |
+| Burmese              | 38     | 46     | yes            |
+| Burmilla             | Medium | Medium |                |
+| California Spangled  | Medium | Large  |                |
+| Chantilly-Tiffany    | Medium | Medium |                |
+| Chausie              | Large  | Large  |                |
+| Colorpoint Shorthair | Small  | medium |                |
+| Cornish Rex          | Small  | Small  |                |
+| Cyprus               | Medium | Medium |                |
+| Devon Rex            | 38     | 46     | yes            |
+| Donskoy              | Medium | Medium |                |
+| European Shorthair   | Medium | Medium |                |
+| Foldex               | Medium | Medium |                |
+| German Rex           | Small  | medium |                |
+| Highlander           | Medium | large  |                |
+| Japanese Bobtail     | Medium | Medium |                |
+| Javanese             | Small  | medium |                |
+| Khao Manee           | 25     | 30     | yes            |
+| Kurilian Bobtail     | Medium | large  |                |
+| Lykoi                | Short  | Medium |                |
+| Maine Coon           | 76     | 102    | yes            |
+| Manx                 | 36     | 41     | yes            |
+| Mekong Bobtail       | Medium | Medium |                |
+| Nebelung             | Medium | long   |                |
+| Oriental Bicolor     | Medium | Medium |                |
+| Persian              | 36     | 46     | no             |
+| Peterbald            | Medium | Medium |                |
+| Pixie-Bob            | 51     | 61     | yes            |
+| Ragdoll Cats         | 43     | 53     | no             |
+| Russian Blue         | 38     | 46     | no             |
+| Savannah             | 33     | 51     | no             |
+| Scottish Fold        | 25     | 30.48  |                |
+| Serengeti            | Medium | Medium |                |
+| Siamese Cat          | 38     | 51     | no             |
+| Siberian             | 43     | 64     | yes            |
+| Singapura            | Small  | Small  |                |
+| Snowshoe             | Medium | long   |                |
+| Sokoke               | Medium | Medium |                |
+| Somali               | 28     | 36     |                |
+| Sphynx               | 33     | 38     |                |
+| American Shorthair   | 30     | 38     |                |
+| Tonkinese            | 30     | 38     |                |
+| Toyger               | Medium | Medium |                |
+| Turkish Angora       | Medium | Medium |                |
+| Turkish Van          | 36     | 43     | yes            |
+| Ukrainian Levkoy     | Medium | Medium |                |
+| York Chocolate       | Large  | Large  |                |
+
+---
+current:
+  subject: Cats
+  topic: Length
+  author: Chirag Chauhan
+  source: <https://www.kaggle.com/datasets/warcoder/cat-breeds-details>
+  file: <./length.txt>
+    license: CC0 Public Domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com)
+...
