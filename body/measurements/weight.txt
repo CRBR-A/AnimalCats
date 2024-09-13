@@ -1,67 +1,68 @@
-| name                 | Min | Max |
+| Breed                | Min | Max |
 | -------------------- | --- | --- |
-| Abyssinian           | 6   | 10  |
-| Aegean               | 7   | 10  |
-| American Bobtail     | 8   | 13  |
-| American Shorthair   | 7   | 12  |
-| American Wirehair    | 8   | 15  |
-| Aphrodite Giant      | 11  | 24  |
-| Arabian Mau          | 8   | 16  |
-| Asian                | 10  | 10  |
-| Australian Mist      | 8   | 15  |
-| Bambino              | 4   | 9   |
-| Bengal Cats          | 8   | 17  |
-| Birman               | 6   | 12  |
-| Bombay               | 8   | 15  |
-| Brazilian Shorthair  | 10  | 22  |
-| British Longhair     | 9   | 18  |
-| British Shorthair    | 7   | 17  |
-| Burmese              | 8   | 12  |
-| Burmilla             | 6.5 | 13  |
-| California Spangled  | 8   | 15  |
-| Chantilly-Tiffany    | 6   | 12  |
-| Chausie              | 15  | 30  |
-| Colorpoint Shorthair | 5   | 10  |
-| Cornish Rex          | 6   | 10  |
-| Cyprus               | 8   | 16  |
-| Devon Rex            | 5   | 10  |
-| Donskoy              | 6   | 15  |
-| European Shorthair   | 8   | 15  |
-| Foldex               | 5   | 14  |
-| German Rex           | 5   | 8   |
-| Highlander           | 10  | 20  |
-| Japanese Bobtail     | 6   | 10  |
-| Javanese             | 5   | 10  |
-| Khao Manee           | 8   | 10  |
-| Kurilian Bobtail     | 8   | 15  |
-| Lykoi                | 4   | 7   |
-| Maine Coon           | 9   | 18  |
-| Manx                 | 8   | 12  |
-| Mekong Bobtail       | 8   | 10  |
-| Nebelung             | 7   | 15  |
-| Oriental Bicolor     | 8   | 12  |
-| Persian              | 7   | 12  |
-| Peterbald            | 6   | 10  |
-| Pixie-Bob            | 8   | 17  |
-| Ragdoll Cats         | 10  | 20  |
-| Russian Blue         | 7   | 15  |
-| Savannah             | 8   | 20  |
-| Scottish Fold        | 6   | 13  |
-| Serengeti            | 8   | 15  |
-| Siamese Cat          | 6   | 14  |
-| Siberian             | 8   | 17  |
-| Singapura            | 4   | 7   |
-| Snowshoe             | 7   | 12  |
-| Sokoke               | 6   | 10  |
-| Somali               | 6   | 10  |
-| Sphynx               | 6   | 12  |
-| American Shorthair   | 7   | 12  |
-| Tonkinese            | 6   | 12  |
-| Toyger               | 7   | 15  |
-| Turkish Angora       | 5   | 9   |
-| Turkish Van          | 10  | 18  |
-| Ukrainian Levkoy     | 8   | 12  |
-| York Chocolate       | 10  | 18  |
+| Abyssinian           | 3   | 5   |
+| Aegean               | 3   | 5   |
+| American Bobtail     | 4   | 6   |
+| American Shorthair   | 3   | 5   |
+| American Wirehair    | 4   | 7   |
+| Aphrodite Giant      | 5   | 11  |
+| Arabian Mau          | 4   | 7   |
+| Asian                | 5   | 5   |
+| Australian Mist      | 4   | 7   |
+| Bambino              | 2   | 4   |
+| Bengal Cats          | 4   | 8   |
+| Birman               | 3   | 5   |
+| Bombay               | 4   | 7   |
+| Brazilian Shorthair  | 5   | 10  |
+| British Longhair     | 4   | 8   |
+| British Shorthair    | 3   | 8   |
+| Burmese              | 4   | 5   |
+| Burmilla             | 3   | 6   |
+| California Spangled  | 4   | 7   |
+| Chantilly-Tiffany    | 3   | 5   |
+| Chausie              | 7   | 14  |
+| Colorpoint Shorthair | 2   | 5   |
+| Cornish Rex          | 3   | 5   |
+| Cyprus               | 4   | 7   |
+| Devon Rex            | 2   | 5   |
+| Donskoy              | 3   | 7   |
+| European Shorthair   | 4   | 7   |
+| Foldex               | 2   | 6   |
+| German Rex           | 2   | 4   |
+| Highlander           | 5   | 9   |
+| Japanese Bobtail     | 3   | 5   |
+| Javanese             | 2   | 5   |
+| Khao Manee           | 4   | 5   |
+| Kurilian Bobtail     | 4   | 7   |
+| Lykoi                | 2   | 3   |
+| Maine Coon           | 4   | 8   |
+| Manx                 | 4   | 5   |
+| Mekong Bobtail       | 4   | 5   |
+| Nebelung             | 3   | 7   |
+| Oriental Bicolor     | 4   | 5   |
+| Persian              | 3   | 5   |
+| Peterbald            | 3   | 5   |
+| Pixie-Bob            | 4   | 8   |
+| Ragdoll Cats         | 5   | 9   |
+| Russian Blue         | 3   | 7   |
+| Savannah             | 4   | 9   |
+| Scottish Fold        | 3   | 6   |
+| Serengeti            | 4   | 7   |
+| Siamese Cat          | 3   | 6   |
+| Siberian             | 4   | 8   |
+| Singapura            | 2   | 3   |
+| Snowshoe             | 3   | 5   |
+| Sokoke               | 3   | 5   |
+| Somali               | 3   | 5   |
+| Sphynx               | 3   | 5   |
+| American Shorthair   | 3   | 5   |
+| Tonkinese            | 3   | 5   |
+| Toyger               | 3   | 7   |
+| Turkish Angora       | 2   | 4   |
+| Turkish Van          | 5   | 8   |
+| Ukrainian Levkoy     | 4   | 5   |
+| York Chocolate       | 5   | 8   |
+
 
 ---
 current:
